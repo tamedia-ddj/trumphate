@@ -2,7 +2,8 @@
 
 Analyse von 34771 von Donald Trump verfassten Twitter-Meldungen zwischen dem 4. Mai 2009 und dem 13. August 2019.
 
-![Trump Hate](president-trump.jpg)
+![Trump Hate](dt.png)
+Source: [Gage Skidmore](https://www.flickr.com/photos/gageskidmore/32758233090)
 
 ## 0 Daten-Quelle
 
