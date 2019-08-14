@@ -1,6 +1,8 @@
 # Trump-Hass auf Twitter
 
-Analyse von 34771 von Donald Trump verfassten Twitter-Meldungen zwischen dem 4. Mai 2009 und dem 13. August 2019
+Analyse von 34771 von Donald Trump verfassten Twitter-Meldungen zwischen dem 4. Mai 2009 und dem 13. August 2019.
+
+![Trump Hate](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.ricochet.com%2Fwp-content%2Fuploads%2F2017%2F08%2Fpresident-trump.jpg&imgrefurl=https%3A%2F%2Fricochet.com%2Fpodcast%2Fharvard-lunch-club%2Floving-trumps-hate%2F&docid=d-kX2CyESOEFVM&tbnid=ZP_KaBeZih4yEM%3A&vet=10ahUKEwiIt6_xpILkAhUS1RoKHbQTCsYQMwg_KAkwCQ..i&w=1068&h=801&bih=800&biw=1422&q=trump%20hate&ved=0ahUKEwiIt6_xpILkAhUS1RoKHbQTCsYQMwg_KAkwCQ&iact=mrc&uact=8)
 
 ## 0 Daten-Quelle
 
