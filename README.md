@@ -2,6 +2,7 @@
 
 Analyse von 34771 von Donald Trump verfassten Twitter-Meldungen zwischen dem 4. Mai 2009 und dem 13. August 2019
 
+##
 ## 1 Daten-Quelle
 
 Für die Untersuchung berücksichtigt, wurden alle 34'771 Kurzmeldungen, die der 45. US-Präsident Donald Trump zwischen dem 4. Mai 2009 und dem 13. August 2019 im sozialen Netzwerk publiziert hat. Abgelegt sind die Inhalte im [«Trump Twitter Archive»](http://www.trumptwitterarchive.com).
@@ -15,4 +16,4 @@ Der Algorithmus nutzt dabei unter anderem ein Lexikon von Wörtern, die entweder
 
 ## 3 Namensextraktion
 
-Zur Extrahierung der Namen wurde der auf die Programmiersprache Python basierte Werkzeugkasten [Natural Language Toolkit] (NTLK)](https://www.nltk.org) verwendet. Die in einem ersten Durchlauf ermittelten Namen wurden dann von Hand zusammengeführt. Zum Beispiel: «Crooked Hillary» und «Hillary Clinton» oder «Loser Obama» und «Barack Obama». 
+Zur Extrahierung der Namen wurde der auf die Programmiersprache Python basierte Werkzeugkasten [Natural Language Toolkit] (NTLK)](https://www.nltk.org) verwendet. Die in einem ersten Durchlauf ermittelten Namen wurden dann von Hand zusammengeführt. Zum Beispiel: «Crooked Hillary» und «Hillary Clinton» oder «Loser Obama» und «Barack Obama».
