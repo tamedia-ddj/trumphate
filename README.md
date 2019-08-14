@@ -5,7 +5,7 @@ Analyse von 34771 von Donald Trump verfassten Twitter-Meldungen zwischen dem 4. 
 ## 0 Daten-Quelle
 
 Für die Untersuchung berücksichtigt, wurden alle 34'771 Kurzmeldungen, die der 45. US-Präsident Donald Trump zwischen dem 4. Mai 2009 und dem 13. August 2019 im sozialen Netzwerk publiziert hat. Abgelegt sind die Inhalte im [«Trump Twitter Archive»](http://www.trumptwitterarchive.com).
-Enthalten sind auch die Tweets, die nachträglich gelöscht wurden. Ausgeschlossen wurden die rund 2000 Weiterleitung von Meldungen anderer Twitter-Nutzer, sogenannte Retweets.
+Enthalten sind auch die Tweets, die nachträglich gelöscht wurden. Ausgeschlossen wurden die rund 2000 Weiterleitung von Meldungen anderer Twitter-Nutzer, sogenannte Retweets. Die effektiv verwendeten Daten im .csv Format [sind hier](https://github.com/tamedia-ddj/trumphate/blob/master/trumptweets.csv).
 
 ## [1 Sentiment-Analyse](https://github.com/tamedia-ddj/trumphate/blob/master/1.%20Sentiment%20Analysis.ipynb)
 
