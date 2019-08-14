@@ -17,5 +17,5 @@ Der Algorithmus nutzt dabei unter anderem ein Lexikon von Wörtern, die entweder
 
 Zur Extrahierung der Namen wurde der auf die Programmiersprache Python basierte Werkzeugkasten [Natural Language Toolkit] (NTLK)](https://www.nltk.org) verwendet. Die in einem ersten Durchlauf ermittelten Namen wurden dann von Hand zusammengeführt. Zum Beispiel: «Crooked Hillary» und «Hillary Clinton» oder «Loser Obama» und «Barack Obama».
 
-## Artikel
+## 3 Artikel
 [Hier folgt der Link]
